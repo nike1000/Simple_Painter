@@ -10,8 +10,8 @@ There are several painting tools like:
   - Oval
   - Rectangle
   - Rectangle with rounded corner
-  - Eraser
-  
+  - Eraser
+
 You can choose the forground and background color.
 
 Use Save/Load button to keep the image to file or load file from disk.
